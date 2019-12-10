@@ -1,26 +1,25 @@
 ---
 layout: archive
-title: "CV"
-permalink: /cv/
+title: "Resume"
+permalink: /resume/
 author_profile: false
 redirect_from:
-  - /resume
+  - /cv
 ---
 
 {% include base_path %}
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* Dual Degree (B.Tech + M.Tech) in Computer Science and Engineering, IIT Kharagpur, 2020 (expected)
 
 Work experience
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* Summer 2019: Software Engineering Intern, Microsoft IDC
+  * Created an end-to-end High Availability Disaster Recovery (HADR) solution for ensuring reliability, consistency and durability of the Kaizala Address Book using C#.
+  * Successfully developed and tested the new feature on top of the existing solution of Kaizala.
+  * Developed a Resource Health Dashboard to identify the root cause of failures in the live-service.
+  * Created the end-to-end dashboard using C#, Azure Monitor APIs, Angularjs and Highchart.
 
 * Fall 2015: Research Assistant
   * Github University
