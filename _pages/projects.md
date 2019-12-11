@@ -35,5 +35,5 @@ In Summers of 2019, I was with the OXO365 group at [Microsoft, Hyderabad](https:
 
 In Summers of 2018, I worked at [Cateina Technologies, Mumbai](https://www.cateina.com/) where I built a blockchain-based document management system with the principal objective being digital signing and verification to ensure authenticity and integrity of the documents. I worked on various emerging technologies like IPFS, Stellar, Hyperledger Composer.
 
-
-# Academic Projects
+<br/><br/>
+<br/><br/>
