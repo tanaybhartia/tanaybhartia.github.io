@@ -82,12 +82,12 @@ analytics:
 author:
   name             : "Tanay Bhartia"
   avatar           : "profile.jpg"
-  bio              : "Senior Undergraduate, Dept. of Computer Science & Engineering, IIT Kharagpur"
-  location         : "Kharagpur, India"
+  bio              : "CSE'20, Dept. of Computer Science & Engineering, IIT Kharagpur"
+  location         : "Sitamarhi, India"
   employer         :
   pubmed           : 
   googlescholar    : 
-  email            :
+  email            : "tanaybhartia@gmail.com"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
@@ -255,7 +255,7 @@ sass:
 permalink: /:categories/:title/
 # paginate: 5 # amount of posts to show
 # paginate_path: /page:num/
-timezone: America/Los_Angeles # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
+timezone: Asia/Kolkata # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
 
 
 # Plugins
