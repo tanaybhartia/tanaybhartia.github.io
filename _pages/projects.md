@@ -10,10 +10,10 @@ redirect_from:
 ---
 
 # Master's Thesis Project
-## Democratic Cloud Federation, IIT Kharagpur
+## Decentralised Federated Cloud Service Brokerage System, IIT Kharagpur
 <img style="float: left;" src="/images/logo.jpg" width="300" height="200" hspace="30">
 
-From starting of August 2019, I have been working under the guidance of Prof. [Sandip Chakraborty](https://cse.iitkgp.ac.in/~sandipc/) for my Master's Thesis Project. I am designing an architecture for federated Infrastructure-as-a-Service (IaaS) provisioning using blockchain technology. The proposed architecture is free from any central broker and supports decentralisation, transparency, autonomy of service providers, immutability in information exchange for dispute-free billing and fairness for service provisioning.
+From August 2019 to June 2020, I worked under the guidance of Prof. [Sandip Chakraborty](https://cse.iitkgp.ac.in/~sandipc/) for my Master's Thesis Project. I designed an architecture for federated Infrastructure-as-a-Service (IaaS) provisioning using blockchain technology. The proposed architecture is free from any central broker and supports decentralisation, transparency, autonomy of service providers, immutability in information exchange for dispute-free billing and fairness for service provisioning.
 
 <br/><br/>
 <br/><br/>
